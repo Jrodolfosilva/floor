@@ -1,0 +1,8 @@
+# imagens originais baixadas do site antigo (não vão para produção)
+_originais/
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
